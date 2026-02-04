@@ -26,6 +26,25 @@ This analysis focuses on:
 
 
 ---
+## 🇧🇷 Resumo do Projeto (Português)
+
+Este projeto analisa o churn de clientes em uma empresa de telecomunicações, com o objetivo de identificar os principais fatores associados ao cancelamento e transformar esses achados em insights acionáveis de negócio.
+
+A análise segue um fluxo completo de Data Science aplicado ao negócio, incluindo:
+
+- Análise Exploratória de Dados (EDA)
+
+- Modelagem Preditiva (Logistic Regression, Decision Tree, Random Forest)
+
+- Avaliação crítica de métricas (precision, recall, trade-offs)
+
+- Storytelling analítico
+
+- Dashboard interativo focado em tomada de decisão
+
+O foco principal não é apenas prever churn, mas entender o porquê do churn e como a empresa pode agir estrategicamente para reduzi-lo, especialmente nos estágios iniciais do relacionamento com o cliente.
+
+---
 
 ## Exploratory Data Analysis (EDA)
 

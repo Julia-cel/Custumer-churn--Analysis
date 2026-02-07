@@ -83,6 +83,7 @@ An interactive dashboard was developed using **Streamlit** to allow stakeholders
 - Support data-driven retention strategies
 
 The dashboard is structured as a **multi-page application** using Streamlit’s `pages/` architecture.
+DASHBOARD: https://custumer-churn--analysis-gzqhscsd32e8yudn9ixk28.streamlit.app/
 
 ---
 

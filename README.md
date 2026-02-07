@@ -32,11 +32,11 @@ Este projeto analisa o churn de clientes em uma empresa de telecomunicações, c
 
 A análise segue um fluxo completo de Data Science aplicado ao negócio, incluindo:
 
+- Preparação e processamento de dados
+
 - Análise Exploratória de Dados (EDA)
 
 - Modelagem Preditiva (Logistic Regression, Decision Tree, Random Forest)
-
-- Avaliação crítica de métricas (precision, recall, trade-offs)
 
 - Storytelling analítico
 

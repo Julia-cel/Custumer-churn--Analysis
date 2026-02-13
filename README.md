@@ -1,6 +1,6 @@
 # Customer Churn Analysis & Business Impact Dashboard
 
-This project presents an end-to-end customer churn analysis using a telecommunications dataset.  
+This project presents an end-to-end customer churn analysis and predictive modeling using a telecommunications dataset. A 
 The objective is to identify key drivers of churn, extract business insights, and present results through both exploratory analysis and an interactive dashboard designed to support decision-making.
 
 The project follows a realistic data analytics workflow, from data exploration to business interpretation and visualization.
@@ -58,6 +58,7 @@ The notebook includes:
 - Data cleaning and preprocessing
 - Visual analysis using plots and summary statistics
 - Business-oriented interpretation of results
+- Machine learning to train model to predict churn
 
 Notebook available here:  
 `customer-churn-exploratory-data-analysis.ipynb`
@@ -93,6 +94,7 @@ DASHBOARD: https://custumer-churn--analysis-gzqhscsd32e8yudn9ixk28.streamlit.app
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
+- Scikit-learn
 - Jupyter Notebook
 - Streamlit
 - Git & GitHub
